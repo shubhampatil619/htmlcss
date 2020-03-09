@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang=en-US>
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+
+  <title>Snapchat - The fastest way to share a moment!</title>
+
+  <!-- Style -->
+  <link rel="stylesheet" href="/static/style-guide/styles/semantic.min.css"/>
+  <link rel="stylesheet" href="/static/style-guide/styles/snapchat.css"/>
+  </style><div class="header-container">
+  <div class="globalnav-container">
+  <a href="https://www.snapchat.com/" class="globalnav-ghost-icon-link">
+<img src="https://www.snapchat.com/static/style-guide/images/ghost/ghost.svg" alt="Snapchat" style="height:64px;"/
+<div class="globalnav-item globalnav-home-link">class="globalnav-link" href="https://www.snapchat.com/">Home</a></div>
+<div class="globalnav-item globalnav-ads-link">
+<div id="homepage"></div>
+<div style="background-color:#F8F9FB;font-size:14px;line-height:17px;"><style>
+      .footer-container,
+      .footer-bottom-bar {
+        width: 92.3%;
+        max-width: 1070px;
+        margin: auto;
+      }
+.footer-container {
+        box-sizing: content-box;
+        position: relative;
+        padding: 30px 0 30px;
+        min-height: 195px;
+      }
